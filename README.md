@@ -5,4 +5,4 @@ O projeto tem objetivo de criar uma rede social de onibus onde os usuarios podem
 
 ## Diagrama de Componentes
 
-[![diagrama-componentes-dimenlogia](imagens/diagrama.png)](https://github.com/esteffanys/SocioBus-Projeto/issues/1#issue-1736852431)
+[![diagrama-componentes-dimenlogia](imagens/diagrama.png)
