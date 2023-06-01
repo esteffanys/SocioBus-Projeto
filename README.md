@@ -5,4 +5,30 @@ O projeto tem objetivo de criar uma rede social de onibus onde os usuarios podem
 
 ## Diagrama de Componentes
 
-[![diagrama-componentes-dimenlogia](imagens/diagrama.png)](https://github.com/esteffanys/SocioBus-Projeto/issues/1#issue-1736852431)
+[![diagrama-componentes-dimenlogia](imagens/diagrama.png)](https://github.com/esteffanys/SocioBus-Projeto/issues/1#issue-1736852431) es/1#issue-1736852431)
+
+#Telas do SocioBus
+
+##01-Tela Inicial
+
+A Tela inicial onde temos a parte de começa a utilizar o aplicativo
+
+##02-Tela de Login e Cadastramento
+
+Nessa tela temos a opção de se conectar ou criar sua conta 
+
+##03-Tela de Usuario 
+
+Essa sera a tela onde teremos as funções e configurações do Usuario
+
+##04-Tela de Configuração 
+
+Podemos ve as funções principais de configuração
+
+##05-Tela de Notificações
+
+
+
+
+
+
