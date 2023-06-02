@@ -5,7 +5,7 @@ O projeto tem objetivo de criar uma rede social de onibus onde os usuarios podem
 
 ## Diagrama de Componentes
 <div>
-<img src="saved pictures/10.png" width="700px"/>
+<img src="Saved Pictures/10.png" width="700px"/>
 </div>
 #Telas do SocioBus
 
